@@ -57,12 +57,6 @@ Climate-Trend-Analyzer/
    streamlit run app/dashboard.py
    ```
 
-## 📸 Screenshots
-*(Add screenshots of your Streamlit dashboard here to showcase your work!)*
-- `historical_trend.png`
-- `anomaly_detection.png`
-- `future_forecast.png`
-
 ## 🧠 Learning Outcomes
 - Handling missing data in time-series datasets.
 - Smoothing noisy data using rolling averages.
@@ -71,4 +65,4 @@ Climate-Trend-Analyzer/
 - Building interactive analytical web applications.
 
 ## 👤 Author
-*Your Name / LinkedIn Profile*
+*Pratik Suralkar*
